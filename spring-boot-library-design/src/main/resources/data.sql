@@ -1,0 +1,10 @@
+insert into library values(1,'Learn Java, Learn Scala, Learn AWS','Technology Library');
+insert into library values(2,'Mars: The Red Planet, Titan: The Water Planet','Space Library');
+insert into library values(3,'','Animal Library');
+insert into library values(4,'','Cloud Library');
+insert into library values(5,'Yellow Sun, Blue Star, Red Star','Star Library');
+insert into library values(6,'Life of Tommy, Life of Brownie','Dog Library');
+insert into library values(7,'abc, lmn, xyz','A Library');
+insert into library values(8,'abc, lmn, xyz','B Library');
+insert into library values(9,'abc, lmn, xyz','C Library');
+insert into library values(10,'abc, lmn, xyz','D Library');
